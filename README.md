@@ -6,3 +6,10 @@ Modified from Lab 4 provided by Prof Russo and TAs
 - Proj1_twoPumps: main code that implements the system
 - LED_TEST: Code for testing LED
 - MPRLS_double_test2: Code for testing connecting two mprls sensors in the same I2C ports (same address)
+
+## Media
+- Schematics
+![alt text]([https://github.com/isarachol/Medical-Robotic-Sleeve/blob/main/Schematics.png])
+
+- Demo
+![alt text]([https://github.com/isarachol/Medical-Robotic-Sleeve/blob/main/demonstration.MOV])
