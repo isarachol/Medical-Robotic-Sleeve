@@ -9,7 +9,12 @@ Modified from Lab 4 provided by Prof Russo and TAs
 
 ## Media
 - Schematics
-![alt text]([https://github.com/isarachol/Medical-Robotic-Sleeve/blob/main/Schematics.png])
+![alt text](https://github.com/isarachol/Medical-Robotic-Sleeve/blob/main/Schematics.png)
 
 - Demo
-![alt text]([https://github.com/isarachol/Medical-Robotic-Sleeve/blob/main/demonstration.MOV])
+
+
+
+https://github.com/user-attachments/assets/07572bf8-e2eb-4bc4-b997-263462577375
+
+
